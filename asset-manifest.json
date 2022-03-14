@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65c6ef25.css",
+    "main.js": "/static/js/main.4fab2799.js",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/static/media/Comfortaa-VariableFont_wght.42599e57da15daf79164.ttf",
+    "static/media/cp1.png": "/static/media/cp1.8449abbaf4b556c232ce.png",
+    "static/media/star.jpg": "/static/media/star.a541b22bd5ddd0bb8fb6.jpg",
+    "index.html": "/index.html",
+    "main.65c6ef25.css.map": "/static/css/main.65c6ef25.css.map",
+    "main.4fab2799.js.map": "/static/js/main.4fab2799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c6ef25.css",
+    "static/js/main.4fab2799.js"
+  ]
+}
