@@ -55,3 +55,9 @@
 .commentIcon {
   padding: 0 0.25rem 0 0;
 }
+
+.allQuestions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

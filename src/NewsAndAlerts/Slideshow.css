@@ -1,0 +1,44 @@
+.title {
+  padding-top: 1rem;
+  margin-left: 3rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.linkText {
+  padding: 1.5rem;
+  font-size: 1.25rem;
+  text-align: center;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.titleText {
+  font-size: larger;
+  text-align: left;
+}
+
+.contentText {
+  font-size: smaller;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: #737373;
+  text-align: left;
+}
+.slide {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.slides {
+  margin: 5rem;
+  border-radius: 2rem;
+  background-color: #ffffff;
+  box-shadow: 11px 11px 22px #e8e8e8, -11px -11px 22px #e8e8e8;
+}
+
+.linkImage {
+  border-radius: 0rem 0rem 0rem 2rem;
+}

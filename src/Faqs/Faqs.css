@@ -1,0 +1,43 @@
+.cards {
+  display: grid;
+  grid-template-columns: 25vw 25vw 25vw;
+  grid-template-rows: auto auto;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 11px 11px 22px #e8e8e8, -11px -11px 22px #e8e8e8;
+  margin: 1rem;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.faqs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 2rem;
+  box-shadow: 11px 11px 22px #e8e8e8, -11px -11px 22px #e8e8e8;
+  margin: 5rem;
+  padding: 2rem;
+}
+
+.titleFaq {
+  width: min-content;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.verticalDivider {
+  margin-left: 2rem;
+  width: 1px;
+  height: 100%;
+  background-color: black;
+}
+
+.titleText {
+  display: flex;
+  flex-direction: row;
+}

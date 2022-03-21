@@ -7,9 +7,10 @@
   background-color: #0085ff;
   border: none;
   cursor: pointer;
-  padding: 2rem;
   width: 60vw;
   margin: 2rem;
+  margin-top: 0rem;
+  padding: 2rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   border-radius: 7px;
@@ -17,12 +18,13 @@
   align-items: center;
   justify-content: center;
 }
-.questionCards {
+.questions {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  height: fit-content;
 }
 .policeLogo {
-  width: 30vw;
+  width: 20vw;
   height: auto;
   margin: 2rem;
 }

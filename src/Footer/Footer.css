@@ -1,0 +1,59 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #0085ff;
+}
+
+.helpHeading {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.contactIcon {
+  margin: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-right: 5rem;
+  color: white;
+}
+
+.complaint {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 5rem;
+  font-size: 1rem;
+}
+
+.phoneNumber {
+  margin: 0.5rem;
+  color: white;
+}
+
+.officialLink {
+  margin: 0.5rem;
+  color: white;
+}
+
+.policeLogoFooter {
+  height: 5rem;
+}
